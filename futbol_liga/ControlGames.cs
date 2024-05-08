@@ -7,6 +7,7 @@ using System.Data.SqlClient;
 using System.Windows.Forms;
 using System.Data;
 using static futbol_liga.ControlRefere;
+using System.Xml;
 
 namespace futbol_liga
 {
@@ -72,6 +73,39 @@ namespace futbol_liga
             {
                 return false;
             }
+        }
+        public DataTable searchData(string keyText)
+        {
+            DataTable dt = new DataTable();
+            sqlString = "SELECT games.team1, games.team2, games.stadium, referees.name AS refere_name , referees.last_name as refere_last_name FROM games  " +
+                "JOIN referees  ON games.refere_id = referees.id WHERE games.stadium LIKE '%"+keyText+"%' OR games.team1 " +
+                "LIKE '%"+keyText+"%' OR games.team2 LIKE '%"+keyText+"%' OR referees.name LIKE '%"+keyText+"%' OR referees.last_name LIKE '%"+keyText+ "%' ;";
+            try
+            {
+                adapter = new SqlDataAdapter(sqlString, conn);
+                adapter.Fill(dt);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+            return dt;
+        }
+        public DataTable filtrData(string keyText)
+        {
+            DataTable dt = new DataTable();
+            sqlString = "SELECT games.team1, games.team2, games.stadium, referees.name AS refere_name , referees.last_name as refere_last_name FROM games  " +
+                "JOIN referees  ON games.refere_id = referees.id WHERE  games.stadium like '%"+keyText+"%';";
+            try
+            {
+                adapter = new SqlDataAdapter(sqlString, conn);
+                adapter.Fill(dt);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+            return dt;
         }
         public bool update(Games game)
         {

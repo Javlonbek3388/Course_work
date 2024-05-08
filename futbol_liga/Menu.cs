@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace futbol_liga
 {
@@ -27,10 +28,24 @@ namespace futbol_liga
 
         private void Menu_Load(object sender, EventArgs e)
         {
-            //panel1.BackColor = Color.FromArgb(125, 255, 255, 255);
+            ControlGames controlGames = new ControlGames();
+            DataTable dataTable = controlGames.getDataGames();
+            foreach(DataRow row in dataTable.Rows)
+            {
+                comboBox1.Items.Add(row["stadium"].ToString());
+            }
+            comboBox1.Text = string.Empty;
+            uploaddataToGridView();
         }
 
-        
+        public void clearBox()
+        {
+            textBox1.Text = "";
+            comboBox1.Text = string.Empty;
+            uploaddataToGridView();
+
+
+        }
 
         private void button3_Click(object sender, EventArgs e)
         {
@@ -142,6 +157,69 @@ namespace futbol_liga
             this.Hide();
             form.ShowDialog();
             this.Close();
+        }
+        public void uploaddataToGridView()
+        {
+            ControlGames control = new ControlGames();
+            dataGridView1.DataSource = control.getDataGames();
+            dataGridView1.Columns["id"].Width = 40;
+            dataGridView1.Columns["refere_id"].Visible = false;
+
+
+        }
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            // string keyText = textBox1.Text.Trim();
+            string text = comboBox1.SelectedItem.ToString();
+            if (text != "" )
+            {
+                ControlGames games = new ControlGames();
+                dataGridView1.DataSource = games.filtrData(text);
+                dataGridView1.Columns["refere_name"].Width = 70;
+                dataGridView1.Columns["refere_last_name"].Width = 70;
+                
+
+            }
+            else
+            {
+                MessageBox.Show("Filter maydoni bo'sh bo'lmasligi kerak.");
+                uploaddataToGridView();
+                clearBox();
+            }
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+
+            string text = textBox1.Text.Trim();
+            
+            if (text != "")
+            {
+                ControlGames games = new ControlGames();
+                dataGridView1.DataSource = games.searchData(text);
+                dataGridView1.Columns["refere_name"].Width = 70;
+                dataGridView1.Columns["refere_last_name"].Width = 70;
+                
+
+            }
+            else
+            {
+                MessageBox.Show("Qidiruv maydoni bo'sh bo'lmasligi kerak.");
+                uploaddataToGridView();
+                clearBox();
+            }
+
         }
     }
 }

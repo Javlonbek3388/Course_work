@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\futbol_liga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|d:\\c#\\futbol_liga\\futbol_liga\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\controlgames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\controlgames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\scorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\scorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\scorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\scorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\controlresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\controlresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ControlResult.cs",
+              "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\ControlResult.cs",
+              "RelativeDocumentMoniker": "futbol_liga\\ControlResult.cs",
+              "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\ControlResult.cs",
+              "RelativeToolTip": "futbol_liga\\ControlResult.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAvwN0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T06:33:34.024Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\Menu.cs",
+              "RelativeDocumentMoniker": "futbol_liga\\Menu.cs",
+              "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\Menu.cs",
+              "RelativeToolTip": "futbol_liga\\Menu.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:42:39.567Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\Menu.cs",
+              "RelativeDocumentMoniker": "futbol_liga\\Menu.cs",
+              "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\Menu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "futbol_liga\\Menu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T06:22:54.088Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "games.cs",
+              "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\games.cs",
+              "RelativeDocumentMoniker": "futbol_liga\\games.cs",
+              "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\games.cs",
+              "RelativeToolTip": "futbol_liga\\games.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAiwFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:35:25.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "games.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\games.cs",
+              "RelativeDocumentMoniker": "futbol_liga\\games.cs",
+              "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\games.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "futbol_liga\\games.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:53:47.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\Form1.cs",
+              "RelativeDocumentMoniker": "futbol_liga\\Form1.cs",
+              "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "futbol_liga\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:07:23.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.cs",
+              "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\main.cs",
+              "RelativeDocumentMoniker": "futbol_liga\\main.cs",
+              "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\main.cs",
+              "RelativeToolTip": "futbol_liga\\main.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAewCQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:47:30.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\main.cs",
+              "RelativeDocumentMoniker": "futbol_liga\\main.cs",
+              "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\main.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "futbol_liga\\main.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:33:38.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "team.cs",
+              "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\team.cs",
+              "RelativeDocumentMoniker": "futbol_liga\\team.cs",
+              "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\team.cs",
+              "RelativeToolTip": "futbol_liga\\team.cs",
+              "ViewState": "AQIAAOQAAAAAAAAAAAASwPQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:31:25.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "team.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\team.cs",
+              "RelativeDocumentMoniker": "futbol_liga\\team.cs",
+              "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\team.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "futbol_liga\\team.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:31:15.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControlGames.cs",
+              "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\ControlGames.cs",
+              "RelativeDocumentMoniker": "futbol_liga\\ControlGames.cs",
+              "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\ControlGames.cs",
+              "RelativeToolTip": "futbol_liga\\ControlGames.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAIAwwGEAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T10:33:16.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConnectDB.cs",
+              "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\ConnectDB.cs",
+              "RelativeDocumentMoniker": "futbol_liga\\ConnectDB.cs",
+              "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\ConnectDB.cs",
+              "RelativeToolTip": "futbol_liga\\ConnectDB.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:32:49.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "result.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\result.cs",
+              "RelativeDocumentMoniker": "futbol_liga\\result.cs",
+              "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\result.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "futbol_liga\\result.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T06:32:45.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "result.cs",
+              "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\result.cs",
+              "RelativeDocumentMoniker": "futbol_liga\\result.cs",
+              "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\result.cs",
+              "RelativeToolTip": "futbol_liga\\result.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAMwB0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T06:32:51.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "scorer.cs",
+              "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\scorer.cs",
+              "RelativeDocumentMoniker": "futbol_liga\\scorer.cs",
+              "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\scorer.cs",
+              "RelativeToolTip": "futbol_liga\\scorer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAMwB0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T06:37:42.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "scorer.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\scorer.cs",
+              "RelativeDocumentMoniker": "futbol_liga\\scorer.cs",
+              "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\scorer.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "futbol_liga\\scorer.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T06:33:49.753Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

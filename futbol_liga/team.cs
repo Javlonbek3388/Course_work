@@ -238,5 +238,11 @@ namespace futbol_liga
                 }
             }
         }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            label7.Text = DateTime.Now.ToString("dd-MM-yyyy");
+            label8.Text = DateTime.Now.ToString("HH:mm:ss");
+        }
     }
 }

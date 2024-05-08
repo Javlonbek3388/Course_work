@@ -23,11 +23,11 @@ namespace futbol_liga
             ControlResult controlresult = new ControlResult();
             dataGridView1.DataSource = controlresult.getDataResult();
             dataGridView1.Columns["id"].Width = 40;
-            dataGridView1.Columns["team_id"].Width = 45;
-            dataGridView1.Columns["points"].Width = 45;
-            dataGridView1.Columns["game_count"].Width = 45;
-            dataGridView1.Columns["win"].Width = 45;
-            dataGridView1.Columns["lose"].Width = 45;
+            dataGridView1.Columns["team_id"].Width = 50;
+            dataGridView1.Columns["points"].Width = 50;
+            dataGridView1.Columns["game_count"].Width = 50;
+            dataGridView1.Columns["win"].Width = 50;
+            dataGridView1.Columns["lose"].Width = 50;
         }
 
         private void button1_Click_1(object sender, EventArgs e)
@@ -168,7 +168,8 @@ namespace futbol_liga
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            
+            label7.Text = DateTime.Now.ToString("dd-MM-yyyy");
+            label8.Text = DateTime.Now.ToString("HH:mm:ss");
         }
     }
 }

@@ -34,7 +34,7 @@ namespace futbol_liga
 
         private void main_Load(object sender, EventArgs e)
         {
-            panel1.BackColor = Color.FromArgb(125, 255, 255, 255);
+            //panel1.BackColor = Color.FromArgb(125, 255, 255, 255);
             button1.BackColor = Color.FromArgb(125, 255, 255, 255);
         }
 
