@@ -17,7 +17,7 @@ namespace futbol_liga
 
         public ConnectDB()
         {
-            string connectionString = "Server=JAVLONBEK;Database=FUTBOL;Trusted_Connection=True;";
+            string connectionString = "Server=*;Database=FUTBOL;Trusted_Connection=True;";
             this.conn = new SqlConnection(connectionString);
             this.conn.Open();
         }
