@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using static futbol_liga.ControlRefere;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace futbol_liga
 {
@@ -37,6 +38,13 @@ namespace futbol_liga
 
         private void result_Load(object sender, EventArgs e)
         {
+            ControlResult controlResult = new ControlResult();
+
+            DataTable dataTable = controlResult.getDataResult();
+            foreach (DataRow row in dataTable.Rows)
+            {
+                comboBox1.Items.Add(row["nomi"].ToString());
+            }
             panel1.BackColor = Color.FromArgb(125,255,255,255);
             uploaddataToGridView();
         }
@@ -49,6 +57,7 @@ namespace futbol_liga
             textBox5.Text = "";
             textBox6.Text = "";
             uploaddataToGridView();
+            comboBox1.SelectedIndex = 0;
 
 
         }
@@ -65,8 +74,9 @@ namespace futbol_liga
 
         private void button2_Click(object sender, EventArgs e)
         {
-            
-            int team_id = int.Parse(textBox2.Text.Trim());
+            ControlResult result = new ControlResult();
+            int team_id = result.getIdByName(comboBox1.SelectedItem.ToString());
+            //int team_id = int.Parse(textBox2.Text.Trim());
             int points = int.Parse(textBox3.Text.Trim());
             int game_count = int.Parse(textBox4.Text.Trim());
             int win = int.Parse(textBox5.Text.Trim());

@@ -47,7 +47,7 @@ namespace futbol_liga
 
             if (UserLogin.isLogin)
             {
-                Menu form2 = new Menu();
+                Menu1 form2 = new Menu1();
                 this.Hide();
                 form2.ShowDialog();
                 this.Close();

@@ -12,6 +12,7 @@ namespace futbol_liga
 {
     internal class ControlResult : ConnectDB
     {
+        public static DataTable dt = new DataTable();
         public bool insert(Result res)
         {
             int e = 0;
@@ -230,6 +231,18 @@ namespace futbol_liga
                 MessageBox.Show(ex.ToString());
             }
             return dt;
+        }
+        public int getIdByName(string name)
+        {
+            int id = 0;
+            foreach (DataRow row in dt.Rows)
+            {
+                if (row["name"].ToString() == name)
+                {
+                    id = int.Parse(row["id"].ToString());
+                }
+            }
+            return id;
         }
         public DataTable getDataScorer()
         {

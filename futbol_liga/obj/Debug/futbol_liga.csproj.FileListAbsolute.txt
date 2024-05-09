@@ -17,3 +17,4 @@ D:\C#\futbol_liga\futbol_liga\obj\Debug\futbol_liga.main.resources
 D:\C#\futbol_liga\futbol_liga\obj\Debug\futbol_liga.scorer.resources
 D:\C#\futbol_liga\futbol_liga\obj\Debug\futbol_liga.asist.resources
 D:\C#\futbol_liga\futbol_liga\obj\Debug\futbol_liga.team.resources
+D:\C#\futbol_liga\futbol_liga\obj\Debug\futbol_liga.Menu1.resources

@@ -115,32 +115,32 @@ namespace futbol_liga
 
         private void button2_MouseLeave(object sender, EventArgs e)
         {
-            button2.ForeColor = Color.FromArgb(00008);
+            
         }
 
         private void button2_MouseHover(object sender, EventArgs e)
         {
-            button2.ForeColor = Color.Red;
+            
         }
 
         private void button3_MouseLeave(object sender, EventArgs e)
         {
-            button3.ForeColor = Color.FromArgb(00008);
+           
         }
 
         private void button3_MouseHover(object sender, EventArgs e)
         {
-            button3.ForeColor = Color.Red;
+            
         }
 
         private void button4_MouseHover(object sender, EventArgs e)
         {
-            button4.ForeColor = Color.Red;
+            
         }
 
         private void button4_MouseLeave(object sender, EventArgs e)
         {
-            button4.ForeColor = Color.FromArgb(00008);
+            
         }
 
         private void button5_Click(object sender, EventArgs e)
@@ -220,6 +220,19 @@ namespace futbol_liga
                 clearBox();
             }
 
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Menu1 form = new Menu1();
+            this.Hide();
+            form.ShowDialog();
+            this.Close();
         }
     }
 }
