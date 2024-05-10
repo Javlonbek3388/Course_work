@@ -34,7 +34,13 @@ namespace futbol_liga
             {
                 comboBox1.Items.Add(row["stadium"].ToString());
             }
-            comboBox1.Text = string.Empty;
+            ControlTeams controlTeams = new ControlTeams();
+            DataTable dataTable1 = controlTeams.getData();
+            foreach (DataRow row in dataTable1.Rows)
+            {
+                comboBox2.Items.Add(row["name"].ToString());
+            }
+            
             uploaddataToGridView();
         }
 
@@ -42,6 +48,7 @@ namespace futbol_liga
         {
             textBox1.Text = "";
             comboBox1.Text = string.Empty;
+            comboBox2.Text = string.Empty;
             uploaddataToGridView();
 
 
@@ -176,13 +183,14 @@ namespace futbol_liga
         {
             // string keyText = textBox1.Text.Trim();
             string text = comboBox1.SelectedItem.ToString();
-            if (text != "" )
+            string text2 = comboBox2.SelectedItem.ToString();
+            if (text != "" && text2 !="")
             {
                 ControlGames games = new ControlGames();
-                dataGridView1.DataSource = games.filtrData(text);
+                dataGridView1.DataSource = games.filtrData(text, text2);
                 dataGridView1.Columns["refere_name"].Width = 70;
                 dataGridView1.Columns["refere_last_name"].Width = 70;
-                
+
 
             }
             else

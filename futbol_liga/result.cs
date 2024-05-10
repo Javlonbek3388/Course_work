@@ -38,12 +38,12 @@ namespace futbol_liga
 
         private void result_Load(object sender, EventArgs e)
         {
-            ControlResult controlResult = new ControlResult();
+            ControlTeams controlResult = new ControlTeams();
 
-            DataTable dataTable = controlResult.getDataResult();
+            DataTable dataTable = controlResult.getData();
             foreach (DataRow row in dataTable.Rows)
             {
-                comboBox1.Items.Add(row["nomi"].ToString());
+                comboBox1.Items.Add(row["name"].ToString());
             }
             panel1.BackColor = Color.FromArgb(125,255,255,255);
             uploaddataToGridView();
@@ -83,7 +83,7 @@ namespace futbol_liga
             int lose = int.Parse(textBox6.Text.Trim());
 
 
-            if (team_id >0 && points > 0 &&  game_count >= 0 && win >= 0 && lose>=0)
+            if ( points > 0 &&  game_count >= 0 && win >= 0 && lose>=0)
             {
                 Result Obj = new Result(team_id, points, game_count, win, lose);
                 ControlResult controlRes = new ControlResult();
@@ -96,7 +96,7 @@ namespace futbol_liga
                 else
                 {
                     MessageBox.Show("ma'lumotlar kiritilmadi");
-
+                    clearBox() ;
                 }
             }
             else

@@ -3,51 +3,51 @@
   "WorkspaceRootPath": "D:\\C#\\futbol_liga\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|d:\\c#\\futbol_liga\\futbol_liga\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|d:\\c#\\futbol_liga\\futbol_liga\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|d:\\c#\\futbol_liga\\futbol_liga\\controlresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\controlresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|d:\\c#\\futbol_liga\\futbol_liga\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\ControlGames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\ControlGames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|d:\\c#\\futbol_liga\\futbol_liga\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|d:\\c#\\futbol_liga\\futbol_liga\\menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|d:\\c#\\futbol_liga\\futbol_liga\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\controlresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\controlresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|d:\\c#\\futbol_liga\\futbol_liga\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|d:\\c#\\futbol_liga\\futbol_liga\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|d:\\c#\\futbol_liga\\futbol_liga\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|d:\\c#\\futbol_liga\\futbol_liga\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|D:\\C#\\futbol_liga\\futbol_liga\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4642C55D-59F6-44E1-B6EF-859452389537}|futbol_liga\\futbol_liga.csproj|solutionrelative:futbol_liga\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -74,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Menu1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\Menu1.cs",
               "RelativeDocumentMoniker": "futbol_liga\\Menu1.cs",
@@ -86,12 +86,11 @@
               "RelativeToolTip": "futbol_liga\\Menu1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T16:09:31.599Z",
-              "IsPinned": true,
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Menu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\Menu.cs",
               "RelativeDocumentMoniker": "futbol_liga\\Menu.cs",
@@ -103,34 +102,38 @@
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ControlResult.cs",
               "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\ControlResult.cs",
               "RelativeDocumentMoniker": "futbol_liga\\ControlResult.cs",
               "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\ControlResult.cs",
               "RelativeToolTip": "futbol_liga\\ControlResult.cs",
-              "ViewState": "AQIAAOEAAAAAAAAAAAAAwO8AAAAdAAAA",
+              "ViewState": "AQIAANwAAAAAAAAAAIAwwOoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T17:51:21.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "result.cs",
               "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\result.cs",
               "RelativeDocumentMoniker": "futbol_liga\\result.cs",
               "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\result.cs",
               "RelativeToolTip": "futbol_liga\\result.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAWwCQAAAAJAAAA",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAwGIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T17:03:36.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "result.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\result.cs",
               "RelativeDocumentMoniker": "futbol_liga\\result.cs",
@@ -150,8 +153,7 @@
               "RelativeToolTip": "futbol_liga\\Form1.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAIA4wDEAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T16:38:25.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T16:38:25.003Z"
             },
             {
               "$type": "Document",
@@ -162,12 +164,7 @@
               "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "futbol_liga\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T16:38:22.697Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-05-09T16:38:22.697Z"
             },
             {
               "$type": "Document",
@@ -179,8 +176,7 @@
               "RelativeToolTip": "futbol_liga\\games.cs",
               "ViewState": "AQIAAIsAAAAAAAAAAAAWwJYAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T16:23:08.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T16:23:08.32Z"
             },
             {
               "$type": "Document",
@@ -192,18 +188,17 @@
               "RelativeToolTip": "futbol_liga\\Menu1.cs",
               "ViewState": "AQIAAEcAAAAAAAAAAAAewFMAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T16:21:49.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T16:21:49.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Menu.cs",
               "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\Menu.cs",
               "RelativeDocumentMoniker": "futbol_liga\\Menu.cs",
               "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\Menu.cs",
               "RelativeToolTip": "futbol_liga\\Menu.cs",
-              "ViewState": "AQIAAKkAAAAAAAAAAAAWwLUAAAA6AAAA",
+              "ViewState": "AQIAALQAAAAAAAAAAAAswLwAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T16:18:23.863Z",
               "EditorCaption": ""
@@ -217,8 +212,7 @@
               "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\games.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "futbol_liga\\games.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T16:16:44.845Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-05-09T16:16:44.845Z"
             },
             {
               "$type": "Document",
@@ -229,7 +223,8 @@
               "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\Menu.resx",
               "RelativeToolTip": "futbol_liga\\Menu.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-05-08T07:49:25.431Z"
+              "WhenOpened": "2024-05-08T07:49:25.431Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -241,7 +236,8 @@
               "RelativeToolTip": "futbol_liga\\Menu.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T07:49:21.302Z"
+              "WhenOpened": "2024-05-08T07:49:21.302Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -269,13 +265,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ControlGames.cs",
               "DocumentMoniker": "D:\\C#\\futbol_liga\\futbol_liga\\ControlGames.cs",
               "RelativeDocumentMoniker": "futbol_liga\\ControlGames.cs",
               "ToolTip": "D:\\C#\\futbol_liga\\futbol_liga\\ControlGames.cs",
               "RelativeToolTip": "futbol_liga\\ControlGames.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAjwF0AAAAiAAAA",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAQwHEAAACQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T07:46:28.894Z",
               "EditorCaption": ""

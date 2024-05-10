@@ -91,11 +91,27 @@ namespace futbol_liga
             }
             return dt;
         }
-        public DataTable filtrData(string keyText)
+        public DataTable filtrData(string keyText, string keyText1)
         {
             DataTable dt = new DataTable();
             sqlString = "SELECT games.team1, games.team2, games.stadium, referees.name AS refere_name , referees.last_name as refere_last_name FROM games  " +
-                "JOIN referees  ON games.refere_id = referees.id WHERE  games.stadium like '%"+keyText+"%';";
+                "JOIN referees  ON games.refere_id = referees.id WHERE  games.stadium like '%"+keyText+"%' OR games.team1 like '%"+keyText1+ "%' OR games.team2 like '%"+keyText1+"%';";
+            try
+            {
+                adapter = new SqlDataAdapter(sqlString, conn);
+                adapter.Fill(dt);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+            return dt;
+        }
+        public DataTable filtrData1(string keyText)
+        {
+            DataTable dt = new DataTable();
+            sqlString = "SELECT games.team1, games.team2, games.stadium, referees.name AS refere_name , referees.last_name as refere_last_name FROM games  " +
+                "JOIN referees  ON games.refere_id = referees.id WHERE  games.stadium like '%" + keyText + "%' OR games.team1 like '%" + keyText + "%' OR games.team2 like '%" + keyText + "%';";
             try
             {
                 adapter = new SqlDataAdapter(sqlString, conn);
