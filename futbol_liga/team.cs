@@ -74,7 +74,7 @@ namespace futbol_liga
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Menu form = new Menu();
+            Menu1 form = new Menu1();
             this.Hide();
             form.ShowDialog();
             this.Close();

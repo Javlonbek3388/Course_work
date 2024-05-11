@@ -182,8 +182,8 @@ namespace futbol_liga
         private void button7_Click(object sender, EventArgs e)
         {
             // string keyText = textBox1.Text.Trim();
-            string text = comboBox1.SelectedItem.ToString();
-            string text2 = comboBox2.SelectedItem.ToString();
+            string text = comboBox1.Text.Trim();
+            string text2 = comboBox2.Text.Trim();
             if (text != "" && text2 !="")
             {
                 ControlGames games = new ControlGames();
