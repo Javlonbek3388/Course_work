@@ -74,8 +74,8 @@ namespace futbol_liga
 
         private void button2_Click(object sender, EventArgs e)
         {
-            ControlResult result = new ControlResult();
-            int team_id = result.getIdByName(comboBox1.SelectedItem.ToString());
+            ControlTeams controlTeams = new ControlTeams();
+            int team_id = controlTeams.getIdByName(comboBox1.SelectedItem.ToString());
             //int team_id = int.Parse(textBox2.Text.Trim());
             int points = int.Parse(textBox3.Text.Trim());
             int game_count = int.Parse(textBox4.Text.Trim());

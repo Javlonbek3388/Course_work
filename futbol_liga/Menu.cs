@@ -28,27 +28,28 @@ namespace futbol_liga
 
         private void Menu_Load(object sender, EventArgs e)
         {
-            ControlGames controlGames = new ControlGames();
-            DataTable dataTable = controlGames.getDataGames();
-            foreach(DataRow row in dataTable.Rows)
-            {
-                comboBox1.Items.Add(row["stadium"].ToString());
-            }
-            ControlTeams controlTeams = new ControlTeams();
-            DataTable dataTable1 = controlTeams.getData();
-            foreach (DataRow row in dataTable1.Rows)
-            {
-                comboBox2.Items.Add(row["name"].ToString());
-            }
-            
+            //ControlTeams controlteam = new ControlTeams();
+            //DataTable dataTable = controlteam.getData();
+            //foreach(DataRow row in dataTable.Rows)
+            //{
+            //    comboBox1.Items.Add(row["country"].ToString());
+            //}
+            //ControlTeams controlTeams = new ControlTeams();
+            //DataTable dataTable1 = controlTeams.getData();
+            //foreach (DataRow row in dataTable1.Rows)
+            //{
+            //    comboBox2.Items.Add(row["name"].ToString());
+            //}
+         
+
             uploaddataToGridView();
         }
 
         public void clearBox()
         {
             textBox1.Text = "";
-            comboBox1.Text = string.Empty;
-            comboBox2.Text = string.Empty;
+            //comboBox1.Text = string.Empty;
+            //comboBox2.Text = string.Empty;
             uploaddataToGridView();
 
 
@@ -182,14 +183,18 @@ namespace futbol_liga
         private void button7_Click(object sender, EventArgs e)
         {
             // string keyText = textBox1.Text.Trim();
-            string text = comboBox1.Text.Trim();
-            string text2 = comboBox2.Text.Trim();
-            if (text != "" && text2 !="")
+            string text = textBox2.Text.Trim();
+            string text2 = textBox3.Text.Trim();
+            string text3 = textBox4.Text.Trim();
+            string text4 = textBox5.Text.Trim();
+            if (text != "" || text2 !="" || text3 != "" || text4 != "")
             {
                 ControlGames games = new ControlGames();
-                dataGridView1.DataSource = games.filtrData(text, text2);
-                dataGridView1.Columns["refere_name"].Width = 70;
-                dataGridView1.Columns["refere_last_name"].Width = 70;
+                //dataGridView1.DataSource = games.filtrData(text, text2);
+                //dataGridView1.Columns["refere_name"].Width = 70;
+                //dataGridView1.Columns["refere_last_name"].Width = 70;
+
+                dataGridView1.DataSource = games.filtr(text, text2, text3, text4);
 
 
             }
@@ -241,6 +246,54 @@ namespace futbol_liga
             this.Hide();
             form.ShowDialog();
             this.Close();
+        }
+
+        private void button2_Click_3(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button6_Click_1(object sender, EventArgs e)
+        {
+
+            string belgi1 = comboBox1.Text;
+            string min = textBox6.Text;
+            string belgi2 = comboBox2.Text;
+            string max = textBox7.Text;
+
+            if (belgi1 != "" && min != "" && belgi2=="" && max =="")
+            {
+                ControlGames control = new ControlGames();
+                dataGridView1.DataSource = control.filtrData1(belgi1, min);
+                dataGridView1.Columns["country"].Width = 50;
+                dataGridView1.Columns["points"].Width = 50;
+                dataGridView1.Columns["coach"].Width = 70;
+                dataGridView1.Columns["name"].Width = 50;
+
+            }
+            if (belgi1 == "" && min == "" && belgi2 != "" && max != "")
+            {
+                ControlGames control = new ControlGames();
+                dataGridView1.DataSource = control.filtrData2(belgi2, max);
+                dataGridView1.Columns["country"].Width = 50;
+                dataGridView1.Columns["points"].Width = 50;
+
+            }
+            if (belgi2 != "" && min != "" && max != "" && belgi1 != "")
+            {
+                ControlGames control = new ControlGames();
+                dataGridView1.DataSource = control.filtrData(belgi1, min, belgi2, max);
+                dataGridView1.Columns["country"].Width = 50;
+                dataGridView1.Columns["points"].Width = 50;
+
+            }
+
+            
+        }
+
+        private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

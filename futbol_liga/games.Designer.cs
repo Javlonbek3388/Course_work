@@ -63,6 +63,7 @@
             this.panel1.Controls.Add(this.textBox6);
             this.panel1.Controls.Add(this.label7);
             this.panel1.Controls.Add(this.button4);
+            this.panel1.Controls.Add(this.textBox4);
             this.panel1.Controls.Add(this.button3);
             this.panel1.Controls.Add(this.button5);
             this.panel1.Controls.Add(this.label5);
@@ -70,7 +71,6 @@
             this.panel1.Controls.Add(this.button2);
             this.panel1.Controls.Add(this.label3);
             this.panel1.Controls.Add(this.textBox5);
-            this.panel1.Controls.Add(this.textBox4);
             this.panel1.Controls.Add(this.textBox3);
             this.panel1.Controls.Add(this.textBox2);
             this.panel1.Controls.Add(this.label2);
@@ -217,7 +217,7 @@
             // 
             this.textBox4.Font = new System.Drawing.Font("Times New Roman", 13F, System.Drawing.FontStyle.Bold);
             this.textBox4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.textBox4.Location = new System.Drawing.Point(1, 281);
+            this.textBox4.Location = new System.Drawing.Point(1, 283);
             this.textBox4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox4.Multiline = true;
             this.textBox4.Name = "textBox4";
@@ -313,7 +313,7 @@
             // 
             this.panel2.Controls.Add(this.label8);
             this.panel2.Controls.Add(this.label6);
-            this.panel2.Location = new System.Drawing.Point(211, 47);
+            this.panel2.Location = new System.Drawing.Point(211, 48);
             this.panel2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(469, 66);

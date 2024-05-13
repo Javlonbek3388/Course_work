@@ -51,6 +51,8 @@ namespace futbol_liga
             string game_time = textBox2.Text.Trim();
             string stadium = textBox3.Text.Trim();
             int refere_id = int.Parse(textBox4.Text.Trim());
+            //ControlGames controlTeams = new ControlGames();
+            //int refere_id = controlTeams.getIdByName(comboBox1.SelectedItem.ToString());
             string team1 = textBox5.Text.Trim();
             string team2 = textBox6.Text.Trim();
             if (game_time != "" && stadium != "" && refere_id != 0 && team1 != "" && team2 !="")
@@ -89,6 +91,12 @@ namespace futbol_liga
 
         private void games_Load(object sender, EventArgs e)
         {
+        //    ControlRefere controlGames = new ControlRefere();
+        //    DataTable dataTable = controlGames.getDataGame();
+        //    foreach (DataRow row in dataTable.Rows)
+        //    {
+        //        comboBox1.Items.Add(row["name"].ToString());
+        //    }
             panel1.BackColor = Color.FromArgb(125, 255, 255, 255);
             uploaddataToGridView();
         }
